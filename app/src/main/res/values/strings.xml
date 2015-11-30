@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YYEvent</string>
+    <string-array name="buildings">
+        <item>Clough</item>
+        <item>Klaus</item>
+        <item>COC</item>
+        <item>Instructional Center</item>
+        <item>ES&#38;T</item>
+    </string-array>
+</resources>
